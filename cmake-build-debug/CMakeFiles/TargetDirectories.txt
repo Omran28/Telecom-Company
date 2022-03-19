@@ -1,0 +1,3 @@
+D:/CS/1st Year/Projects/Telecom Company/cmake-build-debug/CMakeFiles/Telecom_Company.dir
+D:/CS/1st Year/Projects/Telecom Company/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CS/1st Year/Projects/Telecom Company/cmake-build-debug/CMakeFiles/rebuild_cache.dir
